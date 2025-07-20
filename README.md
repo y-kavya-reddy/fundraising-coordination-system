@@ -1,1 +1,2 @@
 # fundraising-coordination-system
+This project outlines a comprehensive, AI-powered crisis response platform. It includes system architecture, UML diagrams (use case, class, sequence, activity, state, component, and deployment), SQL data models, and workflows. The platform enables efficient emergency coordination, fundraising management, donor engagement, and volunteer deployment, aimed at improving transparency, speed, and impact in crisis situations.
